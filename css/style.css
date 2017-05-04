@@ -1,14 +1,8 @@
-@font-face {
-    font-family: "Gotham";
-    src: url("fonts/GothamLight.woff") format('woff'); 
-		url("fonts/GothamLight.ttf") format('truetype');
-}
-
 body, html {
 	font-family: 'Gotham', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
-	color: #656c6d;
+	color: #282824;
 	width: 100% !important;
 	height: 100% !important;
 }
