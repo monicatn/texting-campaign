@@ -381,7 +381,7 @@ ol.type li a:hover {
 }
 .project-description {
 	font-size: 18px;
-	margin: 0 auto 45px auto;
+	margin: 50px auto;
     max-width: 800px;
     text-align: center;
 }
