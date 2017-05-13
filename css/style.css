@@ -420,6 +420,11 @@ ol.type li a:hover {
 .twocolumn-img {
 	padding: 0;
 }
+/* Other Works Section */
+#other-works {
+	background: #f6f6f6;
+	padding: 80px 0px;
+}
 /* Pretty Photo */
 .pp_expand {
 	display: none !important;
