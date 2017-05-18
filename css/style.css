@@ -395,14 +395,23 @@ ol.type li a:hover {
 .project-description1 {
 	font-family: 'Anonymous Pro', monospace;
 	font-size: 34px;
-	margin: 100px auto 50px auto;
+	margin: 100px auto 0px auto;
+    max-width: 1050px;
+    text-align: center;  
+    color: #939598;
+}
+
+.project-description3 {
+	font-family: 'Anonymous Pro', monospace;
+	font-size: 34px;
+	margin: 0px auto;
     max-width: 1100px;
     text-align: center;  
     color: #939598;
 }
 .project-description {
 	font-size: 20px;
-	margin: 50px auto 100px auto;
+	margin: 25px auto 100px auto;
     max-width: 800px;
     text-align: center;  
     line-height: 34px;
